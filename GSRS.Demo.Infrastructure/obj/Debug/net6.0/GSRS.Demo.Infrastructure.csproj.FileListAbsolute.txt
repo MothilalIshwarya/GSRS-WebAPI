@@ -1,0 +1,61 @@
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Demo.Infrastructure.deps.json
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Demo.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Demo.Infrastructure.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Api.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Service.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Api.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Infrastructure.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Service.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.AssemblyInfo.cs
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.csproj.CopyComplete
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\refint\GSRS.Demo.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\ref\GSRS.Demo.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Diagnostics.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Diagnostics.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Demo.Infrastructure.deps.json
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Demo.Infrastructure.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Demo.Infrastructure.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Api.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Diagnostics.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Infrastructure.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Service.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Api.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Diagnostics.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Infrastructure.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Service.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.AssemblyInfo.cs
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.csproj.CopyComplete
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\obj\Debug\net6.0\refint\GSRS.Demo.Infrastructure.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.Infrastructure\obj\Debug\net6.0\ref\GSRS.Demo.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Demo.Infrastructure.deps.json
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Demo.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Demo.Infrastructure.pdb
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Api.dll
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Service.dll
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Api.pdb
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Infrastructure.pdb
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\bin\Debug\net6.0\GSRS.Service.pdb
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.AssemblyInfo.cs
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.csproj.CopyComplete
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\refint\GSRS.Demo.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\GSRS.Demo.Infrastructure.pdb
+C:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.Infrastructure\obj\Debug\net6.0\ref\GSRS.Demo.Infrastructure.dll

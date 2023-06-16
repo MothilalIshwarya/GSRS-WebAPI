@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj",
+        "projectName": "GSRS.Infrastructure",
+        "projectPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\iswarya.mothilal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iswarya.mothilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Hercules-Advent/KPMG-BCO/_packaging/BCOFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.313\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9TfbHMYMwThtHqUfGLyfVflLHbZqIo+F8K0ZoGhiqxc=",
+  "Source": "GSRS.Demo.WebApi",
+  "BasePath": "_content/GSRS.Demo.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

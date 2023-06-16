@@ -1,0 +1,331 @@
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.csproj.AssemblyReference.cache
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.AssemblyInfoInputs.cache
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.AssemblyInfo.cs
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.csproj.CoreCompileInputs.cache
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.deps.json
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.runtimeconfig.json
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\appsettings.json
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.exe
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.deps.json
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.runtimeconfig.json
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Api.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.BusinessService.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Diagnostics.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Infrastructure.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Service.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Api.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.BusinessService.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.Infrastructure.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Diagnostics.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Infrastructure.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Service.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.csproj.CopyComplete
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\refint\GSRS.Demo.WebAPI.IntegrationTesting.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.pdb
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.genruntimeconfig.cache
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\ref\GSRS.Demo.WebAPI.IntegrationTesting.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Moq.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.core.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\log4net.dll
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Public\Angular Project 2023\GSRS\GSRS WEBAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.deps.json
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.runtimeconfig.json
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\appsettings.json
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.exe
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.deps.json
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.runtimeconfig.json
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\log4net.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Moq.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.core.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Api.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.BusinessService.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.Infrastructure.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Diagnostics.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Infrastructure.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Service.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Api.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.BusinessService.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.Infrastructure.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Diagnostics.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Infrastructure.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Service.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.csproj.AssemblyReference.cache
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.AssemblyInfoInputs.cache
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.AssemblyInfo.cs
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.csproj.CoreCompileInputs.cache
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.csproj.CopyComplete
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\refint\GSRS.Demo.WebAPI.IntegrationTesting.dll
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.pdb
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.genruntimeconfig.cache
+C:\Users\iswarya.mothilal\Downloads\Demo\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\ref\GSRS.Demo.WebAPI.IntegrationTesting.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\appsettings.json
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.deps.json
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.runtimeconfig.json
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.exe
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.deps.json
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.runtimeconfig.json
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.pdb
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\AutoMapper.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Azure.Core.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Azure.Identity.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Castle.Core.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\log4net.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Moq.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Memory.Data.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Runtime.Caching.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.abstractions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.assert.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.core.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\xunit.execution.dotnet.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Api.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.BusinessService.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.Infrastructure.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Infrastructure.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Service.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.WebApi.pdb
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Api.pdb
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.BusinessService.pdb
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Demo.Infrastructure.pdb
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Infrastructure.pdb
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\bin\Debug\net6.0\GSRS.Service.pdb
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.csproj.AssemblyReference.cache
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.AssemblyInfoInputs.cache
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.AssemblyInfo.cs
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.csproj.CoreCompileInputs.cache
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.csproj.CopyComplete
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\refint\GSRS.Demo.WebAPI.IntegrationTesting.dll
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.pdb
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\GSRS.Demo.WebAPI.IntegrationTesting.genruntimeconfig.cache
+c:\Users\Public\Angular Project 2023\GSRS V-1\GSRS WebAPI\GSRS.Demo.WebAPI.IntegrationTesting\obj\Debug\net6.0\ref\GSRS.Demo.WebAPI.IntegrationTesting.dll

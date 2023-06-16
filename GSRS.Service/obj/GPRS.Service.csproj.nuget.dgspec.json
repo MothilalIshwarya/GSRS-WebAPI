@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Service\\GSRS.Service.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Diagnostics\\GSRS.Diagnostics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Diagnostics\\GSRS.Diagnostics.csproj",
+        "projectName": "GSRS.Diagnostics",
+        "projectPath": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Diagnostics\\GSRS.Diagnostics.csproj",
+        "packagesPath": "C:\\Users\\aravinth.subram\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Diagnostics\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aravinth.subram\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj",
+        "projectName": "GSRS.Infrastructure",
+        "projectPath": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\aravinth.subram\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aravinth.subram\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Diagnostics\\GSRS.Diagnostics.csproj": {
+                "projectPath": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Diagnostics\\GSRS.Diagnostics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Service\\GSRS.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Service\\GSRS.Service.csproj",
+        "projectName": "GSRS.Service",
+        "projectPath": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Service\\GSRS.Service.csproj",
+        "packagesPath": "C:\\Users\\aravinth.subram\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aravinth.subram\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Diagnostics\\GSRS.Diagnostics.csproj": {
+                "projectPath": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Diagnostics\\GSRS.Diagnostics.csproj"
+              },
+              "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\aravinth.subram\\Documents\\GSRS\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\GSRS.Demo.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Api\\GSRS.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Api\\GSRS.Api.csproj",
+        "projectName": "GSRS.Api",
+        "projectPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Api\\GSRS.Api.csproj",
+        "packagesPath": "C:\\Users\\iswarya.mothilal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iswarya.mothilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Hercules-Advent/KPMG-BCO/_packaging/BCOFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\GSRS.Service.csproj": {
+                "projectPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\GSRS.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.313\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\GSRS.Demo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\GSRS.Demo.Infrastructure.csproj",
+        "projectName": "GSRS.Demo.Infrastructure",
+        "projectPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\GSRS.Demo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\iswarya.mothilal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iswarya.mothilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Hercules-Advent/KPMG-BCO/_packaging/BCOFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Api\\GSRS.Api.csproj": {
+                "projectPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Api\\GSRS.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.313\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj",
+        "projectName": "GSRS.Infrastructure",
+        "projectPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\iswarya.mothilal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iswarya.mothilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Hercules-Advent/KPMG-BCO/_packaging/BCOFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.313\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\GSRS.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\GSRS.Service.csproj",
+        "projectName": "GSRS.Service",
+        "projectPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\GSRS.Service.csproj",
+        "packagesPath": "C:\\Users\\iswarya.mothilal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iswarya.mothilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Hercules-Advent/KPMG-BCO/_packaging/BCOFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\GSRS.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.313\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

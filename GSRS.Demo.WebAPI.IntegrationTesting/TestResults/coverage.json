@@ -1,0 +1,5566 @@
+{
+  "GSRS.Api.dll": {
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Api\\Dtos\\BaseDto.cs": {
+      "GSRS.Api.Dtos.BaseDto": {
+        "System.Int32 GSRS.Api.Dtos.BaseDto::get_Id()": {
+          "Lines": {
+            "10": 30
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> GSRS.Api.Dtos.BaseDto::get_DateCreated()": {
+          "Lines": {
+            "14": 16
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> GSRS.Api.Dtos.BaseDto::get_DateChanged()": {
+          "Lines": {
+            "16": 16
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Api.Dtos.BaseDto::get_ChangedBy()": {
+          "Lines": {
+            "18": 16
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Api\\Controller\\BaseAsyncController.cs": {
+      "GSRS.Api.Controllers.BaseAsyncController`2": {
+        "System.Void GSRS.Api.Controllers.BaseAsyncController`2::.ctor(GSRS.Service.ServiceContracts.IBaseAsyncService`1<TEntity>,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<TEntity,TDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<TDto,TEntity>)": {
+          "Lines": {
+            "20": 47,
+            "21": 47,
+            "22": 47,
+            "23": 47,
+            "24": 47,
+            "25": 47,
+            "26": 47,
+            "27": 47,
+            "28": 47
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Api.Controllers.BaseAsyncController`2/<Delete>d__7": {
+        "System.Void GSRS.Api.Controllers.BaseAsyncController`2/<Delete>d__7::MoveNext()": {
+          "Lines": {
+            "117": 0,
+            "119": 0,
+            "122": 0,
+            "124": 0,
+            "125": 0,
+            "128": 0,
+            "132": 0,
+            "135": 0,
+            "136": 0
+          },
+          "Branches": [
+            {
+              "Line": 124,
+              "Offset": 204,
+              "EndOffset": 206,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 124,
+              "Offset": 204,
+              "EndOffset": 224,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "GSRS.Api.Controllers.BaseAsyncController`2/<Get>d__4": {
+        "System.Void GSRS.Api.Controllers.BaseAsyncController`2/<Get>d__4::MoveNext()": {
+          "Lines": {
+            "32": 8,
+            "34": 8,
+            "37": 8,
+            "39": 8,
+            "40": 4,
+            "42": 4,
+            "45": 4,
+            "47": 4,
+            "48": 8
+          },
+          "Branches": [
+            {
+              "Line": 39,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 7
+            },
+            {
+              "Line": 39,
+              "Offset": 164,
+              "EndOffset": 182,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 187,
+              "EndOffset": 189,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 4
+            },
+            {
+              "Line": 39,
+              "Offset": 187,
+              "EndOffset": 204,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            }
+          ]
+        }
+      },
+      "GSRS.Api.Controllers.BaseAsyncController`2/<Get>d__5": {
+        "System.Void GSRS.Api.Controllers.BaseAsyncController`2/<Get>d__5::MoveNext()": {
+          "Lines": {
+            "57": 24,
+            "59": 24,
+            "62": 16,
+            "64": 16,
+            "65": 8,
+            "67": 8,
+            "71": 8,
+            "74": 8,
+            "75": 16
+          },
+          "Branches": [
+            {
+              "Line": 64,
+              "Offset": 193,
+              "EndOffset": 195,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 8
+            },
+            {
+              "Line": 64,
+              "Offset": 193,
+              "EndOffset": 210,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 8
+            }
+          ]
+        }
+      },
+      "GSRS.Api.Controllers.BaseAsyncController`2/<Post>d__6": {
+        "System.Void GSRS.Api.Controllers.BaseAsyncController`2/<Post>d__6::MoveNext()": {
+          "Lines": {
+            "84": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "99": 0,
+            "101": 0,
+            "103": 0,
+            "104": 0,
+            "106": 0,
+            "107": 0
+          },
+          "Branches": [
+            {
+              "Line": 91,
+              "Offset": 94,
+              "EndOffset": 96,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 91,
+              "Offset": 94,
+              "EndOffset": 135,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 91,
+              "Offset": 138,
+              "EndOffset": 143,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 91,
+              "Offset": 138,
+              "EndOffset": 280,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 98,
+              "Offset": 455,
+              "EndOffset": 457,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 98,
+              "Offset": 455,
+              "EndOffset": 475,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Api\\BaseMappers\\BaseDtoToModelMapper.cs": {
+      "GSRS.Api.BaseMappers.BaseDtoToModelMapper`2": {
+        "System.Collections.Generic.IEnumerable`1<TDestination> GSRS.Api.BaseMappers.BaseDtoToModelMapper`2::Map(System.Collections.Generic.IEnumerable`1<TSource>)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "TDestination GSRS.Api.BaseMappers.BaseDtoToModelMapper`2::Map(TSource)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Api.BaseMappers.BaseDtoToModelMapper`2::.ctor(AutoMapper.IMapper)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Api\\BaseMappers\\BaseModelToDtoMapper.cs": {
+      "GSRS.Api.BaseMappers.BaseModelToDtoMapper`2": {
+        "System.Collections.Generic.IEnumerable`1<TDestination> GSRS.Api.BaseMappers.BaseModelToDtoMapper`2::Map(System.Collections.Generic.IEnumerable`1<TSource>)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "TDestination GSRS.Api.BaseMappers.BaseModelToDtoMapper`2::Map(TSource)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Api.BaseMappers.BaseModelToDtoMapper`2::.ctor(AutoMapper.IMapper)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "GSRS.Demo.BusinessService.dll": {
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\AgreementService.cs": {
+      "GSRS.Demo.BusinessService.Services.AgreementService": {
+        "System.Void GSRS.Demo.BusinessService.Services.AgreementService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.IAgreementRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\AutoImportTypeService.cs": {
+      "GSRS.Demo.BusinessService.Services.AutoImportTypeService": {
+        "System.Void GSRS.Demo.BusinessService.Services.AutoImportTypeService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.IAutoImportTypeRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\CostModelService.cs": {
+      "GSRS.Demo.BusinessService.Services.CostModelService": {
+        "System.Void GSRS.Demo.BusinessService.Services.CostModelService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.ICostModelRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\ImportTypeService.cs": {
+      "GSRS.Demo.BusinessService.Services.ImportTypeService": {
+        "System.Void GSRS.Demo.BusinessService.Services.ImportTypeService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.IImportTypeRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\LicenseServerGroupService.cs": {
+      "GSRS.Demo.BusinessService.Services.LicenseServerGroupService": {
+        "System.Void GSRS.Demo.BusinessService.Services.LicenseServerGroupService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.ILicenseServerGroupRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\LicenseServerService.cs": {
+      "GSRS.Demo.BusinessService.Services.LicenseServerService": {
+        "System.Void GSRS.Demo.BusinessService.Services.LicenseServerService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.ILicenseServerRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\LicenseTypeService.cs": {
+      "GSRS.Demo.BusinessService.Services.LicenseTypeService": {
+        "System.Void GSRS.Demo.BusinessService.Services.LicenseTypeService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.ILicenseTypeRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\ModContractService.cs": {
+      "GSRS.Demo.BusinessService.Services.ModContractService": {
+        "System.Void GSRS.Demo.BusinessService.Services.ModContractService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.IModContractRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\ProductGroupPriceService.cs": {
+      "GSRS.Demo.BusinessService.Services.ProductGroupPriceService": {
+        "System.Void GSRS.Demo.BusinessService.Services.ProductGroupPriceService::SetCreateAuditField(System.Collections.Generic.List`1<GSRS.Demo.BusinessService.Model.ProductGroupPrice>)": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 63,
+              "EndOffset": 5,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 63,
+              "EndOffset": 65,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Demo.BusinessService.Services.ProductGroupPriceService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.IProductGroupPriceRepository)": {
+          "Lines": {
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.BusinessService.Services.ProductGroupPriceService/<CreateListAsync>d__2": {
+        "System.Void GSRS.Demo.BusinessService.Services.ProductGroupPriceService/<CreateListAsync>d__2::MoveNext()": {
+          "Lines": {
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\ProductGroupService.cs": {
+      "GSRS.Demo.BusinessService.Services.ProductGroupService": {
+        "System.Void GSRS.Demo.BusinessService.Services.ProductGroupService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.IProductGroupRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\ProductService.cs": {
+      "GSRS.Demo.BusinessService.Services.ProductService": {
+        "System.Void GSRS.Demo.BusinessService.Services.ProductService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.IProductRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\UnitDefinitionService.cs": {
+      "GSRS.Demo.BusinessService.Services.UnitDefinitionService": {
+        "System.Void GSRS.Demo.BusinessService.Services.UnitDefinitionService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.IUnitDefinitionRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\UnitFactorService.cs": {
+      "GSRS.Demo.BusinessService.Services.UnitFactorService": {
+        "System.Void GSRS.Demo.BusinessService.Services.UnitFactorService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.IUnitFactorRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\VendorService.cs": {
+      "GSRS.Demo.BusinessService.Services.VendorService": {
+        "System.Void GSRS.Demo.BusinessService.Services.VendorService::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.IVendorRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Services\\ServiceBase\\GSRSService.cs": {
+      "GSRS.Demo.BusinessService.Services.ServiceBase.GSRSService`1": {
+        "System.Void GSRS.Demo.BusinessService.Services.ServiceBase.GSRSService`1::.ctor(GSRS.Demo.BusinessService.RepositoryContracts.RepositoryBaseContract.IGSRSRepository`1<TEntity>)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\AgreementRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.AgreementRepository": {
+        "System.Linq.IQueryable`1<GSRS.Demo.BusinessService.Model.Agreement> GSRS.Demo.BusinessService.Repository.AgreementRepository::get_Query()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.Dictionary`2<System.Int32,GSRS.Demo.BusinessService.Model.Agreement>> GSRS.Demo.BusinessService.Repository.AgreementRepository::SearchUnrestrictedAsync(GSRS.Service.ModelContracts.ISearchCondition`1<GSRS.Demo.BusinessService.Model.Agreement>)": {
+          "Lines": {
+            "29": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 105,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.Agreement> GSRS.Demo.BusinessService.Repository.AgreementRepository::FetchAsync(System.Int32,System.Boolean)": {
+          "Lines": {
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 148,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.Agreement> GSRS.Demo.BusinessService.Repository.AgreementRepository::FetchEntityByIdAsync(System.Int32)": {
+          "Lines": {
+            "61": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Demo.BusinessService.Repository.AgreementRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\AutoImportTypeRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.AutoImportTypeRepository": {
+        "System.Void GSRS.Demo.BusinessService.Repository.AutoImportTypeRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\CostModelRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.CostModelRepository": {
+        "System.Void GSRS.Demo.BusinessService.Repository.CostModelRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\ImportTypeRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.ImportTypeRepository": {
+        "System.Void GSRS.Demo.BusinessService.Repository.ImportTypeRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\LicenseServerGroupRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.LicenseServerGroupRepository": {
+        "System.Void GSRS.Demo.BusinessService.Repository.LicenseServerGroupRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\LicenseServerRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.LicenseServerRepository": {
+        "System.Linq.IQueryable`1<GSRS.Demo.BusinessService.Model.LicenseServer> GSRS.Demo.BusinessService.Repository.LicenseServerRepository::get_Query()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.Dictionary`2<System.Int32,GSRS.Demo.BusinessService.Model.LicenseServer>> GSRS.Demo.BusinessService.Repository.LicenseServerRepository::SearchUnrestrictedAsync(GSRS.Service.ModelContracts.ISearchCondition`1<GSRS.Demo.BusinessService.Model.LicenseServer>)": {
+          "Lines": {
+            "29": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 46,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.LicenseServer> GSRS.Demo.BusinessService.Repository.LicenseServerRepository::FetchAsync(System.Int32,System.Boolean)": {
+          "Lines": {
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 148,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.LicenseServer> GSRS.Demo.BusinessService.Repository.LicenseServerRepository::FetchEntityByIdAsync(System.Int32)": {
+          "Lines": {
+            "61": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Demo.BusinessService.Repository.LicenseServerRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\LicenseTypeRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.LicenseTypeRepository": {
+        "System.Linq.IQueryable`1<GSRS.Demo.BusinessService.Model.LicenseType> GSRS.Demo.BusinessService.Repository.LicenseTypeRepository::get_Query()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.Dictionary`2<System.Int32,GSRS.Demo.BusinessService.Model.LicenseType>> GSRS.Demo.BusinessService.Repository.LicenseTypeRepository::SearchUnrestrictedAsync(GSRS.Service.ModelContracts.ISearchCondition`1<GSRS.Demo.BusinessService.Model.LicenseType>)": {
+          "Lines": {
+            "29": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 43,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.LicenseType> GSRS.Demo.BusinessService.Repository.LicenseTypeRepository::FetchAsync(System.Int32,System.Boolean)": {
+          "Lines": {
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 148,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.LicenseType> GSRS.Demo.BusinessService.Repository.LicenseTypeRepository::FetchEntityByIdAsync(System.Int32)": {
+          "Lines": {
+            "61": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Demo.BusinessService.Repository.LicenseTypeRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\ModContractRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.ModContractRepository": {
+        "System.Linq.IQueryable`1<GSRS.Demo.BusinessService.Model.ModContract> GSRS.Demo.BusinessService.Repository.ModContractRepository::get_Query()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.Dictionary`2<System.Int32,GSRS.Demo.BusinessService.Model.ModContract>> GSRS.Demo.BusinessService.Repository.ModContractRepository::SearchUnrestrictedAsync(GSRS.Service.ModelContracts.ISearchCondition`1<GSRS.Demo.BusinessService.Model.ModContract>)": {
+          "Lines": {
+            "33": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 19,
+              "EndOffset": 105,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.ModContract> GSRS.Demo.BusinessService.Repository.ModContractRepository::FetchAsync(System.Int32,System.Boolean)": {
+          "Lines": {
+            "54": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "63": 0,
+            "64": 0
+          },
+          "Branches": [
+            {
+              "Line": 56,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 20,
+              "EndOffset": 148,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.ModContract> GSRS.Demo.BusinessService.Repository.ModContractRepository::FetchEntityByIdAsync(System.Int32)": {
+          "Lines": {
+            "66": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Demo.BusinessService.Repository.ModContractRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\ProductGroupPriceRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.ProductGroupPriceRepository": {
+        "System.Linq.IQueryable`1<GSRS.Demo.BusinessService.Model.ProductGroupPrice> GSRS.Demo.BusinessService.Repository.ProductGroupPriceRepository::get_Query()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.Dictionary`2<System.Int32,GSRS.Demo.BusinessService.Model.ProductGroupPrice>> GSRS.Demo.BusinessService.Repository.ProductGroupPriceRepository::SearchUnrestrictedAsync(GSRS.Service.ModelContracts.ISearchCondition`1<GSRS.Demo.BusinessService.Model.ProductGroupPrice>)": {
+          "Lines": {
+            "30": 0,
+            "32": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0
+          },
+          "Branches": [
+            {
+              "Line": 34,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 19,
+              "EndOffset": 46,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.ProductGroupPrice> GSRS.Demo.BusinessService.Repository.ProductGroupPriceRepository::FetchAsync(System.Int32,System.Boolean)": {
+          "Lines": {
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "56": 0,
+            "57": 0,
+            "60": 0,
+            "61": 0
+          },
+          "Branches": [
+            {
+              "Line": 53,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 20,
+              "EndOffset": 148,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.ProductGroupPrice> GSRS.Demo.BusinessService.Repository.ProductGroupPriceRepository::FetchEntityByIdAsync(System.Int32)": {
+          "Lines": {
+            "63": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.Object GSRS.Demo.BusinessService.Repository.ProductGroupPriceRepository::GetProductGroupPricesByProductGroupId(System.Int32)": {
+          "Lines": {
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "117": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Demo.BusinessService.Repository.ProductGroupPriceRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.BusinessService.Repository.ProductGroupPriceRepository/<CreatListeAsync>d__7": {
+        "System.Void GSRS.Demo.BusinessService.Repository.ProductGroupPriceRepository/<CreatListeAsync>d__7::MoveNext()": {
+          "Lines": {
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "83": 0,
+            "87": 0,
+            "88": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0
+          },
+          "Branches": [
+            {
+              "Line": 72,
+              "Offset": 664,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 569,
+              "EndOffset": 115,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 138,
+              "EndOffset": 142,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 138,
+              "EndOffset": 186,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 206,
+              "EndOffset": 210,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 206,
+              "EndOffset": 264,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 295,
+              "EndOffset": 299,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 295,
+              "EndOffset": 346,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 384,
+              "EndOffset": 389,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 401,
+              "EndOffset": 405,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 401,
+              "EndOffset": 441,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 461,
+              "EndOffset": 465,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 461,
+              "EndOffset": 512,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 384,
+              "EndOffset": 550,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 569,
+              "EndOffset": 574,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 624,
+              "EndOffset": 626,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 624,
+              "EndOffset": 638,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 72,
+              "Offset": 664,
+              "EndOffset": 669,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\ProductGroupRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.ProductGroupRepository": {
+        "System.Linq.IQueryable`1<GSRS.Demo.BusinessService.Model.ProductGroup> GSRS.Demo.BusinessService.Repository.ProductGroupRepository::get_Query()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.Dictionary`2<System.Int32,GSRS.Demo.BusinessService.Model.ProductGroup>> GSRS.Demo.BusinessService.Repository.ProductGroupRepository::SearchUnrestrictedAsync(GSRS.Service.ModelContracts.ISearchCondition`1<GSRS.Demo.BusinessService.Model.ProductGroup>)": {
+          "Lines": {
+            "29": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 24,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 235,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.ProductGroup> GSRS.Demo.BusinessService.Repository.ProductGroupRepository::FetchAsync(System.Int32,System.Boolean)": {
+          "Lines": {
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 148,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.ProductGroup> GSRS.Demo.BusinessService.Repository.ProductGroupRepository::FetchEntityByIdAsync(System.Int32)": {
+          "Lines": {
+            "61": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Demo.BusinessService.Repository.ProductGroupRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.BusinessService.Repository.ProductGroupRepository/<SoftDeleteAsync>d__7": {
+        "System.Void GSRS.Demo.BusinessService.Repository.ProductGroupRepository/<SoftDeleteAsync>d__7::MoveNext()": {
+          "Lines": {
+            "72": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "78": 0,
+            "81": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0
+          },
+          "Branches": [
+            {
+              "Line": 75,
+              "Offset": 197,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 78,
+              "Offset": 243,
+              "EndOffset": 245,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 78,
+              "Offset": 243,
+              "EndOffset": 248,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 197,
+              "EndOffset": 401,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\ProductRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.ProductRepository": {
+        "System.Linq.IQueryable`1<GSRS.Demo.BusinessService.Model.Product> GSRS.Demo.BusinessService.Repository.ProductRepository::get_Query()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.Dictionary`2<System.Int32,GSRS.Demo.BusinessService.Model.Product>> GSRS.Demo.BusinessService.Repository.ProductRepository::SearchUnrestrictedAsync(GSRS.Service.ModelContracts.ISearchCondition`1<GSRS.Demo.BusinessService.Model.Product>)": {
+          "Lines": {
+            "29": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 46,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.Product> GSRS.Demo.BusinessService.Repository.ProductRepository::FetchAsync(System.Int32,System.Boolean)": {
+          "Lines": {
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 148,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.Product> GSRS.Demo.BusinessService.Repository.ProductRepository::FetchEntityByIdAsync(System.Int32)": {
+          "Lines": {
+            "61": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Demo.BusinessService.Repository.ProductRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.BusinessService.Repository.ProductRepository/<SoftDeleteAsync>d__7": {
+        "System.Void GSRS.Demo.BusinessService.Repository.ProductRepository/<SoftDeleteAsync>d__7::MoveNext()": {
+          "Lines": {
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "76": 0,
+            "79": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0
+          },
+          "Branches": [
+            {
+              "Line": 73,
+              "Offset": 197,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 243,
+              "EndOffset": 245,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 243,
+              "EndOffset": 248,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 73,
+              "Offset": 197,
+              "EndOffset": 401,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\UnitDefinitionRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.UnitDefinitionRepository": {
+        "System.Void GSRS.Demo.BusinessService.Repository.UnitDefinitionRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\UnitFactorRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.UnitFactorRepository": {
+        "System.Linq.IQueryable`1<GSRS.Demo.BusinessService.Model.UnitFactor> GSRS.Demo.BusinessService.Repository.UnitFactorRepository::get_Query()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.Dictionary`2<System.Int32,GSRS.Demo.BusinessService.Model.UnitFactor>> GSRS.Demo.BusinessService.Repository.UnitFactorRepository::SearchUnrestrictedAsync(GSRS.Service.ModelContracts.ISearchCondition`1<GSRS.Demo.BusinessService.Model.UnitFactor>)": {
+          "Lines": {
+            "29": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 19,
+              "EndOffset": 43,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.UnitFactor> GSRS.Demo.BusinessService.Repository.UnitFactorRepository::FetchAsync(System.Int32,System.Boolean)": {
+          "Lines": {
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 20,
+              "EndOffset": 148,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<GSRS.Demo.BusinessService.Model.UnitFactor> GSRS.Demo.BusinessService.Repository.UnitFactorRepository::FetchEntityByIdAsync(System.Int32)": {
+          "Lines": {
+            "61": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Demo.BusinessService.Repository.UnitFactorRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\VendorRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.VendorRepository": {
+        "System.Void GSRS.Demo.BusinessService.Repository.VendorRepository::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Repository\\RepositoryBase\\GSRSRepository.cs": {
+      "GSRS.Demo.BusinessService.Repository.RepositoryBase.GSRSRepository`1": {
+        "System.Void GSRS.Demo.BusinessService.Repository.RepositoryBase.GSRSRepository`1::.ctor(GSRS.Demo.BusinessService.Context.IContext)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\Agreement.cs": {
+      "GSRS.Demo.BusinessService.Model.Agreement": {
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_AgreementCode()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 GSRS.Demo.BusinessService.Model.Agreement::get_VendorId()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_Description()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_MacProjectNo()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_InitialsResponsible()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Boolean> GSRS.Demo.BusinessService.Model.Agreement::get_Enabled()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_MackTaskName_nondk()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_MacPostingAccount()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean GSRS.Demo.BusinessService.Model.Agreement::get_IsGlobal()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.Agreement::get_WarningThresholdInDays()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_MacTaskName_LIC()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_Comment()": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_LocalCountryIso()": {
+          "Lines": {
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_FinanceResponsible()": {
+          "Lines": {
+            "35": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Agreement::get_MacIncomeDepartment()": {
+          "Lines": {
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.ProductGroup> GSRS.Demo.BusinessService.Model.Agreement::get_ProductGroups()": {
+          "Lines": {
+            "39": 0
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.Vendor GSRS.Demo.BusinessService.Model.Agreement::get_Vendor()": {
+          "Lines": {
+            "41": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\AutoImportType.cs": {
+      "GSRS.Demo.BusinessService.Model.AutoImportType": {
+        "System.String GSRS.Demo.BusinessService.Model.AutoImportType::get_AutoImportCode()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.AutoImportType::get_Description()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.LicenseServer> GSRS.Demo.BusinessService.Model.AutoImportType::get_LicenseServers()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\CostModel.cs": {
+      "GSRS.Demo.BusinessService.Model.CostModel": {
+        "System.String GSRS.Demo.BusinessService.Model.CostModel::get_CostModelName()": {
+          "Lines": {
+            "11": 23
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.CostModel::get_Description()": {
+          "Lines": {
+            "13": 23
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.ProductGroup> GSRS.Demo.BusinessService.Model.CostModel::get_ProductGroups()": {
+          "Lines": {
+            "15": 23
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\ImportType.cs": {
+      "GSRS.Demo.BusinessService.Model.ImportType": {
+        "System.String GSRS.Demo.BusinessService.Model.ImportType::get_ImportTypeName()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.ImportType::get_Description()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.LicenseType> GSRS.Demo.BusinessService.Model.ImportType::get_LicenseTypes()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\LicenseServer.cs": {
+      "GSRS.Demo.BusinessService.Model.LicenseServer": {
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseServer::get_LicServerGroupId()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseServer::get_LicTypeId()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseServer::get_Enabled()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseServer::get_AutoImportTypeId()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.LicenseServer::get_FolderName()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.LicenseServer::get_UdlFileName()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.LicenseServer::get_Descriptions()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseServer::get_DeltaPeakDays()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseServer::get_EnabledPeak()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Double> GSRS.Demo.BusinessService.Model.LicenseServer::get_DeltaTimeZoneHours()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.LicenseServer::get_Country()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean GSRS.Demo.BusinessService.Model.LicenseServer::get_HasDayLightSaving()": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.LicenseServer::get_Comment()": {
+          "Lines": {
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.LicenseServer::get_ServerName()": {
+          "Lines": {
+            "35": 0
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.AutoImportType GSRS.Demo.BusinessService.Model.LicenseServer::get_AutoImportType()": {
+          "Lines": {
+            "37": 0
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.LicenseServerGroup GSRS.Demo.BusinessService.Model.LicenseServer::get_LicServerGroup()": {
+          "Lines": {
+            "39": 0
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.LicenseType GSRS.Demo.BusinessService.Model.LicenseServer::get_LicType()": {
+          "Lines": {
+            "41": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\LicenseServerGroup.cs": {
+      "GSRS.Demo.BusinessService.Model.LicenseServerGroup": {
+        "System.String GSRS.Demo.BusinessService.Model.LicenseServerGroup::get_ServerGroupName()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.LicenseServerGroup::get_CountryIso()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.LicenseServer> GSRS.Demo.BusinessService.Model.LicenseServerGroup::get_LicenseServers()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.ProductGroupPrice> GSRS.Demo.BusinessService.Model.LicenseServerGroup::get_ProductGroupPrices()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\LicenseType.cs": {
+      "GSRS.Demo.BusinessService.Model.LicenseType": {
+        "System.String GSRS.Demo.BusinessService.Model.LicenseType::get_LicTypeName()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseType::get_ImportTypeId()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseType::get_Enabled()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseType::get_StatUserDay()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseType::get_StatHours()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.LicenseType::get_StatConcurrentUsers()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.LicenseType::get_ImportFrequency()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.ImportType GSRS.Demo.BusinessService.Model.LicenseType::get_ImportType()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.LicenseServer> GSRS.Demo.BusinessService.Model.LicenseType::get_LicenseServers()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.Product> GSRS.Demo.BusinessService.Model.LicenseType::get_Products()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\ModContract.cs": {
+      "GSRS.Demo.BusinessService.Model.ModContract": {
+        "System.Int32 GSRS.Demo.BusinessService.Model.ModContract::get_AgreementId()": {
+          "Lines": {
+            "10": 13
+          },
+          "Branches": []
+        },
+        "System.DateTime GSRS.Demo.BusinessService.Model.ModContract::get_DateStart()": {
+          "Lines": {
+            "12": 13
+          },
+          "Branches": []
+        },
+        "System.DateTime GSRS.Demo.BusinessService.Model.ModContract::get_DateEnd()": {
+          "Lines": {
+            "14": 13
+          },
+          "Branches": []
+        },
+        "System.Double GSRS.Demo.BusinessService.Model.ModContract::get_ContractValue()": {
+          "Lines": {
+            "16": 13
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.ModContract::get_Comment()": {
+          "Lines": {
+            "18": 13
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.Agreement GSRS.Demo.BusinessService.Model.ModContract::get_Agreement()": {
+          "Lines": {
+            "20": 13
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\Product.cs": {
+      "GSRS.Demo.BusinessService.Model.Product": {
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.Product::get_ProductGroupId()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Product::get_FeaturesKey()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.Product::get_LicTypeId()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.Product::get_Enabled()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 GSRS.Demo.BusinessService.Model.Product::get_IsApproved()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Product::get_DisplayName()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.Product::get_LicenseCount()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Product::get_ManufacturerName()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Product::get_Comment()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.LicenseType GSRS.Demo.BusinessService.Model.Product::get_LicType()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.ProductGroup GSRS.Demo.BusinessService.Model.Product::get_ProductGroup()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\ProductGroup.cs": {
+      "GSRS.Demo.BusinessService.Model.ProductGroup": {
+        "System.Int32 GSRS.Demo.BusinessService.Model.ProductGroup::get_AgreementId()": {
+          "Lines": {
+            "9": 21
+          },
+          "Branches": []
+        },
+        "System.Int32 GSRS.Demo.BusinessService.Model.ProductGroup::get_UnitFactorId()": {
+          "Lines": {
+            "11": 21
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.ProductGroup::get_ProductGroupCode()": {
+          "Lines": {
+            "13": 21
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.ProductGroup::get_ProductGroupName()": {
+          "Lines": {
+            "15": 21
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.ProductGroup::get_CostModelId()": {
+          "Lines": {
+            "17": 21
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.ProductGroup::get_AccountByGroup()": {
+          "Lines": {
+            "19": 21
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.ProductGroup::get_Comment()": {
+          "Lines": {
+            "21": 21
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.ProductGroup::get_Enabled()": {
+          "Lines": {
+            "23": 21
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.ProductGroup::get_Graceperiod()": {
+          "Lines": {
+            "25": 21
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.BusinessService.Model.ProductGroup::get_SupportgroupId()": {
+          "Lines": {
+            "27": 21
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.Agreement GSRS.Demo.BusinessService.Model.ProductGroup::get_Agreement()": {
+          "Lines": {
+            "29": 21
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.CostModel GSRS.Demo.BusinessService.Model.ProductGroup::get_CostModel()": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.ProductGroupPrice> GSRS.Demo.BusinessService.Model.ProductGroup::get_ProductGroupPrices()": {
+          "Lines": {
+            "33": 21
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.Product> GSRS.Demo.BusinessService.Model.ProductGroup::get_Products()": {
+          "Lines": {
+            "35": 21
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.UnitFactor GSRS.Demo.BusinessService.Model.ProductGroup::get_UnitFactor()": {
+          "Lines": {
+            "37": 21
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\ProductGroupPrice.cs": {
+      "GSRS.Demo.BusinessService.Model.ProductGroupPrice": {
+        "System.Int32 GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_ProductGroupId()": {
+          "Lines": {
+            "9": 12
+          },
+          "Branches": []
+        },
+        "System.Int32 GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_LicServerGroupId()": {
+          "Lines": {
+            "11": 12
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_DateStart()": {
+          "Lines": {
+            "13": 12
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_DateEnd()": {
+          "Lines": {
+            "15": 12
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Single> GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_PriceContract()": {
+          "Lines": {
+            "17": 12
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Single> GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_PricePerUnit()": {
+          "Lines": {
+            "19": 12
+          },
+          "Branches": []
+        },
+        "System.Single GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_CostFactor()": {
+          "Lines": {
+            "21": 12
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Boolean> GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_Enabled()": {
+          "Lines": {
+            "23": 12
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_MacComment()": {
+          "Lines": {
+            "25": 12
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_Description()": {
+          "Lines": {
+            "27": 12
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.LicenseServerGroup GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_LicServerGroup()": {
+          "Lines": {
+            "29": 12
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.ProductGroup GSRS.Demo.BusinessService.Model.ProductGroupPrice::get_ProductGroup()": {
+          "Lines": {
+            "31": 12
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\UnitDefinition.cs": {
+      "GSRS.Demo.BusinessService.Model.UnitDefinition": {
+        "System.String GSRS.Demo.BusinessService.Model.UnitDefinition::get_UnitDefinitionCode()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.UnitDefinition::get_Description()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.UnitDefinition::get_ShortDescription()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.UnitDefinition::get_UsageTip()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.UnitFactor> GSRS.Demo.BusinessService.Model.UnitDefinition::get_UnitFactors()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\UnitFactor.cs": {
+      "GSRS.Demo.BusinessService.Model.UnitFactor": {
+        "System.String GSRS.Demo.BusinessService.Model.UnitFactor::get_UnitFactorCode()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 GSRS.Demo.BusinessService.Model.UnitFactor::get_UnitDefinitionId()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.UnitFactor::get_Description()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Double GSRS.Demo.BusinessService.Model.UnitFactor::get_CostValue()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.ProductGroup> GSRS.Demo.BusinessService.Model.UnitFactor::get_ProductGroups()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "GSRS.Demo.BusinessService.Model.UnitDefinition GSRS.Demo.BusinessService.Model.UnitFactor::get_UnitDefinition()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\OModel\\Vendor.cs": {
+      "GSRS.Demo.BusinessService.Model.Vendor": {
+        "System.String GSRS.Demo.BusinessService.Model.Vendor::get_VendorCode()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Vendor::get_VendorName()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.BusinessService.Model.Vendor::get_VendorAddress()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<GSRS.Demo.BusinessService.Model.Agreement> GSRS.Demo.BusinessService.Model.Vendor::get_Agreements()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\Context.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "System.Void GSRS.Demo.BusinessService.Context.Context::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 49,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 49,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Demo.BusinessService.Context.Context::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<GSRS.Demo.BusinessService.Context.Context>)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\Agreement.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.Agreement> GSRS.Demo.BusinessService.Context.Context::get_Agreements()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\AutoImportType.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.AutoImportType> GSRS.Demo.BusinessService.Context.Context::get_AutoImportTypes()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\CostModel.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.CostModel> GSRS.Demo.BusinessService.Context.Context::get_CostModels()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\ImportType.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.ImportType> GSRS.Demo.BusinessService.Context.Context::get_Demos()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\LicenseServer.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.LicenseServer> GSRS.Demo.BusinessService.Context.Context::get_LicenseServers()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\LicenseServerGroup.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.LicenseServerGroup> GSRS.Demo.BusinessService.Context.Context::get_LicenseServerGroups()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\LicenseType.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.LicenseType> GSRS.Demo.BusinessService.Context.Context::get_licenseTypes()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\ModContract.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.ModContract> GSRS.Demo.BusinessService.Context.Context::get_modContracts()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\Product.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.Product> GSRS.Demo.BusinessService.Context.Context::get_Products()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\ProductGroup.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.ProductGroup> GSRS.Demo.BusinessService.Context.Context::get_ProductGroups()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\ProductGroupPrice.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.ProductGroupPrice> GSRS.Demo.BusinessService.Context.Context::get_ProductGroupPrices()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\UnitDefinition.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.UnitDefinition> GSRS.Demo.BusinessService.Context.Context::get_UnitDefinitions()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\UnitFactor.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.UnitFactor> GSRS.Demo.BusinessService.Context.Context::get_UnitFactors()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.BusinessService\\Context\\DbSets\\Vendor.cs": {
+      "GSRS.Demo.BusinessService.Context.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<GSRS.Demo.BusinessService.Model.Vendor> GSRS.Demo.BusinessService.Context.Context::get_Vendors()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "GSRS.Demo.Infrastructure.dll": {
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\AgreementDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.AgreementDto": {
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_AgreementCode()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_VendorId()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_Description()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_MacProjectNo()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_InitialsResponsible()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Boolean> GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_Enabled()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_MackTaskName_nondk()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_MacPostingAccount()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_IsGlobal()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_WarningThresholdInDays()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_MacTaskName_LIC()": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_Comment()": {
+          "Lines": {
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_LocalCountryIso()": {
+          "Lines": {
+            "35": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_FinanceResponsible()": {
+          "Lines": {
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_MacIncomeDepartment()": {
+          "Lines": {
+            "39": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AgreementDto::get_VendorName()": {
+          "Lines": {
+            "41": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\AutoImportTypeDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.AutoImportTypeDto": {
+        "System.String GSRS.Demo.Infrastructure.Dtos.AutoImportTypeDto::get_AutoImportCode()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.AutoImportTypeDto::get_Description()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\CostModelDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.CostModelDto": {
+        "System.String GSRS.Demo.Infrastructure.Dtos.CostModelDto::get_CostModelName()": {
+          "Lines": {
+            "14": 5
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.CostModelDto::get_Description()": {
+          "Lines": {
+            "17": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\ImportTypeDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.ImportTypeDto": {
+        "System.String GSRS.Demo.Infrastructure.Dtos.ImportTypeDto::get_ImportTypeName()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ImportTypeDto::get_Description()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\LicenseServerDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.LicenseServerDto": {
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_LicServerGroupId()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_LicTypeId()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_Enabled()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_AutoImportTypeId()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_FolderName()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_UdlFileName()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_Descriptions()": {
+          "Lines": {
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_DeltaPeakDays()": {
+          "Lines": {
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_EnabledPeak()": {
+          "Lines": {
+            "36": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Double> GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_DeltaTimeZoneHours()": {
+          "Lines": {
+            "39": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_Country()": {
+          "Lines": {
+            "42": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_HasDayLightSaving()": {
+          "Lines": {
+            "45": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_Comment()": {
+          "Lines": {
+            "47": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_ServerName()": {
+          "Lines": {
+            "50": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_ServerGroupName()": {
+          "Lines": {
+            "51": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_LicTypeName()": {
+          "Lines": {
+            "53": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerDto::get_Description()": {
+          "Lines": {
+            "55": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\LicenseServerGroupDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.LicenseServerGroupDto": {
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerGroupDto::get_ServerGroupName()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseServerGroupDto::get_CountryIso()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\LicenseTypeDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto": {
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto::get_LicTypeName()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto::get_ImportTypeId()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto::get_Enabled()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto::get_StatUserDay()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto::get_StatHours()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto::get_StatConcurrentUsers()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto::get_ImportFrequency()": {
+          "Lines": {
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto::get_ImportTypeName()": {
+          "Lines": {
+            "32": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\ModContractDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.ModContractDto": {
+        "System.Int32 GSRS.Demo.Infrastructure.Dtos.ModContractDto::get_AgreementId()": {
+          "Lines": {
+            "14": 4
+          },
+          "Branches": []
+        },
+        "System.DateTime GSRS.Demo.Infrastructure.Dtos.ModContractDto::get_DateStart()": {
+          "Lines": {
+            "17": 8
+          },
+          "Branches": []
+        },
+        "System.DateTime GSRS.Demo.Infrastructure.Dtos.ModContractDto::get_DateEnd()": {
+          "Lines": {
+            "20": 8
+          },
+          "Branches": []
+        },
+        "System.Double GSRS.Demo.Infrastructure.Dtos.ModContractDto::get_ContractValue()": {
+          "Lines": {
+            "23": 4
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ModContractDto::get_Comment()": {
+          "Lines": {
+            "25": 4
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ModContractDto::get_AgreementCode_Agreement()": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\ProductDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.ProductDto": {
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.ProductDto::get_ProductGroupId()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductDto::get_FeaturesKey()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.ProductDto::get_LicTypeId()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.ProductDto::get_Enabled()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 GSRS.Demo.Infrastructure.Dtos.ProductDto::get_IsApproved()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductDto::get_DisplayName()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.ProductDto::get_LicenseCount()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductDto::get_ManufacturerName()": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductDto::get_Comment()": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductDto::get_ProductGroupName()": {
+          "Lines": {
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductDto::get_LicTypeName()": {
+          "Lines": {
+            "32": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\ProductGroupDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.ProductGroupDto": {
+        "System.Int32 GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_AgreementId()": {
+          "Lines": {
+            "14": 5
+          },
+          "Branches": []
+        },
+        "System.Int32 GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_UnitFactorId()": {
+          "Lines": {
+            "16": 5
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_ProductGroupCode()": {
+          "Lines": {
+            "18": 5
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_ProductGroupName()": {
+          "Lines": {
+            "20": 5
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_CostModelId()": {
+          "Lines": {
+            "22": 5
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_AccountByGroup()": {
+          "Lines": {
+            "24": 5
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_Comment()": {
+          "Lines": {
+            "25": 5
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_Enabled()": {
+          "Lines": {
+            "27": 5
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_Graceperiod()": {
+          "Lines": {
+            "29": 5
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_SupportgroupId()": {
+          "Lines": {
+            "31": 5
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_Description_Agreement()": {
+          "Lines": {
+            "33": 10
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_Description_UnitFactor()": {
+          "Lines": {
+            "35": 10
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductGroupDto::get_Description_CostModel()": {
+          "Lines": {
+            "37": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\ProductGroupPriceDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto": {
+        "System.Int32 GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_ProductGroupId()": {
+          "Lines": {
+            "14": 2
+          },
+          "Branches": []
+        },
+        "System.Int32 GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_LicServerGroupId()": {
+          "Lines": {
+            "16": 2
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_DateStart()": {
+          "Lines": {
+            "19": 4
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_DateEnd()": {
+          "Lines": {
+            "22": 4
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Single> GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_PriceContract()": {
+          "Lines": {
+            "25": 2
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Single> GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_PricePerUnit()": {
+          "Lines": {
+            "27": 2
+          },
+          "Branches": []
+        },
+        "System.Single GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_CostFactor()": {
+          "Lines": {
+            "29": 2
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Boolean> GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_Enabled()": {
+          "Lines": {
+            "31": 2
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_MacComment()": {
+          "Lines": {
+            "33": 2
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_Description()": {
+          "Lines": {
+            "35": 2
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_ProductGroupName()": {
+          "Lines": {
+            "37": 2
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto::get_ServerGroupName()": {
+          "Lines": {
+            "39": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\UnitDefinitionDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.UnitDefinitionDto": {
+        "System.String GSRS.Demo.Infrastructure.Dtos.UnitDefinitionDto::get_UnitDefinitionCode()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.UnitDefinitionDto::get_Description()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.UnitDefinitionDto::get_ShortDescription()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.UnitDefinitionDto::get_UsageTip()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\UnitFactorDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.UnitFactorDto": {
+        "System.String GSRS.Demo.Infrastructure.Dtos.UnitFactorDto::get_UnitFactorCode()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 GSRS.Demo.Infrastructure.Dtos.UnitFactorDto::get_UnitDefinitionId()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.UnitFactorDto::get_Description()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Double GSRS.Demo.Infrastructure.Dtos.UnitFactorDto::get_CostValue()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.UnitFactorDto::get_Description_UnitDefinition()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.Infrastructure\\Dtos\\VendorDto.cs": {
+      "GSRS.Demo.Infrastructure.Dtos.VendorDto": {
+        "System.String GSRS.Demo.Infrastructure.Dtos.VendorDto::get_VendorCode()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.VendorDto::get_VendorName()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Demo.Infrastructure.Dtos.VendorDto::get_VendorAddress()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "GSRS.Demo.WebApi.dll": {
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "15": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "65": 0,
+            "66": 0,
+            "69": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "85": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "100": 0,
+            "102": 0
+          },
+          "Branches": [
+            {
+              "Line": 88,
+              "Offset": 826,
+              "EndOffset": 828,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 88,
+              "Offset": 826,
+              "EndOffset": 846,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\AgreementProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.AgreementProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.AgreementProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\AutoImportTypeProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.AutoImportTypeProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.AutoImportTypeProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\CostModelProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.CostModelProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.CostModelProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\ImportTypeProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.ImportTypeProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.ImportTypeProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\LicenseServerGroupProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.LicenseServerGroupProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.LicenseServerGroupProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\LicenseServerProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.LicenseServerProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.LicenseServerProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\LicenseTypeProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.LicenseTypeProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.LicenseTypeProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\ModContractProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.ModContractProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.ModContractProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\ProductGroupPriceProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.ProductGroupPriceProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.ProductGroupPriceProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\ProductGroupProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.ProductGroupProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.ProductGroupProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\ProductProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.ProductProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.ProductProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\UnitDefinitionProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.UnitDefinitionProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.UnitDefinitionProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\UnitFactorProfile.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.UnitFactorProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.UnitFactorProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Mappers\\Profiles\\VendorController.cs": {
+      "GSRS.Demo.WebApi.Mappers.Profiles.VendorProfile": {
+        "System.Void GSRS.Demo.WebApi.Mappers.Profiles.VendorProfile::.ctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\AgreementController.cs": {
+      "GSRS.Demo.WebApi.Controllers.AgreementController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.AgreementController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.IAgreementService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.Agreement,GSRS.Demo.Infrastructure.Dtos.AgreementDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.AgreementDto,GSRS.Demo.BusinessService.Model.Agreement>)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.AgreementController/<GetAgreementByVendorId>d__2": {
+        "System.Void GSRS.Demo.WebApi.Controllers.AgreementController/<GetAgreementByVendorId>d__2::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "40": 0,
+            "43": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 309,
+              "EndOffset": 311,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 309,
+              "EndOffset": 327,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 332,
+              "EndOffset": 334,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 332,
+              "EndOffset": 349,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\AutoImportTypeController.cs": {
+      "GSRS.Demo.WebApi.Controllers.AutoImportTypeController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.AutoImportTypeController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.IAutoImportTypeService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.AutoImportType,GSRS.Demo.Infrastructure.Dtos.AutoImportTypeDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.AutoImportTypeDto,GSRS.Demo.BusinessService.Model.AutoImportType>)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\CostModelController.cs": {
+      "GSRS.Demo.WebApi.Controllers.CostModelController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.CostModelController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.ICostModelService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.CostModel,GSRS.Demo.Infrastructure.Dtos.CostModelDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.CostModelDto,GSRS.Demo.BusinessService.Model.CostModel>)": {
+          "Lines": {
+            "24": 13,
+            "25": 13,
+            "26": 13,
+            "27": 13
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.CostModelController/<Post>d__2": {
+        "System.Void GSRS.Demo.WebApi.Controllers.CostModelController/<Post>d__2::MoveNext()": {
+          "Lines": {
+            "30": 5,
+            "32": 5,
+            "33": 5,
+            "34": 2,
+            "36": 2,
+            "39": 3,
+            "40": 3,
+            "42": 3,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "49": 2,
+            "50": 2,
+            "52": 2,
+            "53": 1,
+            "54": 1,
+            "56": 1,
+            "58": 1,
+            "59": 1,
+            "63": 5
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 439,
+              "EndOffset": 441,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 33,
+              "Offset": 439,
+              "EndOffset": 464,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 42,
+              "Offset": 527,
+              "EndOffset": 532,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 42,
+              "Offset": 527,
+              "EndOffset": 694,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 52,
+              "Offset": 854,
+              "EndOffset": 856,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 52,
+              "Offset": 854,
+              "EndOffset": 874,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\ImportTypeController.cs": {
+      "GSRS.Demo.WebApi.Controllers.ImportTypeController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ImportTypeController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.IImportTypeService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.ImportType,GSRS.Demo.Infrastructure.Dtos.ImportTypeDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.ImportTypeDto,GSRS.Demo.BusinessService.Model.ImportType>)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.ImportTypeController/<Post>d__2": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ImportTypeController/<Post>d__2::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 439,
+              "EndOffset": 441,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 439,
+              "EndOffset": 464,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 527,
+              "EndOffset": 532,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 527,
+              "EndOffset": 672,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 832,
+              "EndOffset": 834,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 832,
+              "EndOffset": 852,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\LicenseServerController.cs": {
+      "GSRS.Demo.WebApi.Controllers.LicenseServerController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.LicenseServerController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.ILicenseServerService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.LicenseServer,GSRS.Demo.Infrastructure.Dtos.LicenseServerDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.LicenseServerDto,GSRS.Demo.BusinessService.Model.LicenseServer>)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\LicenseServerGroupController.cs": {
+      "GSRS.Demo.WebApi.Controllers.LicenseServerGroupController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.LicenseServerGroupController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.ILicenseServerGroupService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.LicenseServerGroup,GSRS.Demo.Infrastructure.Dtos.LicenseServerGroupDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.LicenseServerGroupDto,GSRS.Demo.BusinessService.Model.LicenseServerGroup>)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\LicenseTypeController.cs": {
+      "GSRS.Demo.WebApi.Controllers.LicenseTypeController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.LicenseTypeController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.ILicenseTypeService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.LicenseType,GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.LicenseTypeDto,GSRS.Demo.BusinessService.Model.LicenseType>)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\ModContractController.cs": {
+      "GSRS.Demo.WebApi.Controllers.ModContractController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ModContractController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.IModContractService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.ModContract,GSRS.Demo.Infrastructure.Dtos.ModContractDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.ModContractDto,GSRS.Demo.BusinessService.Model.ModContract>)": {
+          "Lines": {
+            "24": 12,
+            "25": 12,
+            "26": 12,
+            "27": 12
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.ModContractController/<Post>d__2": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ModContractController/<Post>d__2::MoveNext()": {
+          "Lines": {
+            "30": 4,
+            "32": 4,
+            "34": 3,
+            "36": 3,
+            "37": 3,
+            "38": 1,
+            "39": 1,
+            "40": 1,
+            "44": 2,
+            "46": 2,
+            "47": 2,
+            "48": 1,
+            "49": 1,
+            "52": 1,
+            "53": 1,
+            "54": 1,
+            "58": 3
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 132,
+              "EndOffset": 137,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 37,
+              "Offset": 132,
+              "EndOffset": 296,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 47,
+              "Offset": 456,
+              "EndOffset": 458,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 47,
+              "Offset": 456,
+              "EndOffset": 476,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\ProductController.cs": {
+      "GSRS.Demo.WebApi.Controllers.ProductController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ProductController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.IProductService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.Product,GSRS.Demo.Infrastructure.Dtos.ProductDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.ProductDto,GSRS.Demo.BusinessService.Model.Product>)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.ProductController/<Delete>d__2": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ProductController/<Delete>d__2::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "32": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "41": 0,
+            "46": 0,
+            "49": 0,
+            "50": 0
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 194,
+              "EndOffset": 196,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 194,
+              "EndOffset": 214,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.ProductController/<Post>d__3": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ProductController/<Post>d__3::MoveNext()": {
+          "Lines": {
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0
+          },
+          "Branches": [
+            {
+              "Line": 56,
+              "Offset": 439,
+              "EndOffset": 441,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 439,
+              "EndOffset": 464,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 527,
+              "EndOffset": 532,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 527,
+              "EndOffset": 672,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 832,
+              "EndOffset": 834,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 832,
+              "EndOffset": 852,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\ProductGroupController.cs": {
+      "GSRS.Demo.WebApi.Controllers.ProductGroupController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ProductGroupController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.IProductGroupService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.ProductGroup,GSRS.Demo.Infrastructure.Dtos.ProductGroupDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.ProductGroupDto,GSRS.Demo.BusinessService.Model.ProductGroup>)": {
+          "Lines": {
+            "25": 13,
+            "26": 13,
+            "27": 13,
+            "28": 13
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.ProductGroupController/<Delete>d__2": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ProductGroupController/<Delete>d__2::MoveNext()": {
+          "Lines": {
+            "33": 0,
+            "35": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "47": 0,
+            "50": 0,
+            "51": 0
+          },
+          "Branches": [
+            {
+              "Line": 40,
+              "Offset": 194,
+              "EndOffset": 196,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 194,
+              "EndOffset": 214,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.ProductGroupController/<GetProductGroupByAgreementId>d__4": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ProductGroupController/<GetProductGroupByAgreementId>d__4::MoveNext()": {
+          "Lines": {
+            "92": 0,
+            "95": 0,
+            "98": 0,
+            "100": 0,
+            "101": 0,
+            "104": 0,
+            "107": 0,
+            "109": 0,
+            "110": 0
+          },
+          "Branches": [
+            {
+              "Line": 100,
+              "Offset": 376,
+              "EndOffset": 378,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 376,
+              "EndOffset": 394,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 399,
+              "EndOffset": 401,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 399,
+              "EndOffset": 416,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.ProductGroupController/<Post>d__3": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ProductGroupController/<Post>d__3::MoveNext()": {
+          "Lines": {
+            "54": 5,
+            "56": 5,
+            "57": 5,
+            "58": 2,
+            "60": 2,
+            "62": 3,
+            "63": 3,
+            "65": 3,
+            "66": 1,
+            "67": 1,
+            "68": 1,
+            "73": 2,
+            "75": 2,
+            "77": 2,
+            "78": 1,
+            "79": 1,
+            "83": 1,
+            "84": 1,
+            "85": 1,
+            "89": 5
+          },
+          "Branches": [
+            {
+              "Line": 57,
+              "Offset": 439,
+              "EndOffset": 441,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 57,
+              "Offset": 439,
+              "EndOffset": 464,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 65,
+              "Offset": 527,
+              "EndOffset": 532,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 65,
+              "Offset": 527,
+              "EndOffset": 694,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 77,
+              "Offset": 854,
+              "EndOffset": 856,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 77,
+              "Offset": 854,
+              "EndOffset": 874,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\ProductGroupPriceController.cs": {
+      "GSRS.Demo.WebApi.Controllers.ProductGroupPriceController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ProductGroupPriceController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.IProductGroupPriceService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.ProductGroupPrice,GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.ProductGroupPriceDto,GSRS.Demo.BusinessService.Model.ProductGroupPrice>)": {
+          "Lines": {
+            "24": 9,
+            "25": 9,
+            "26": 9,
+            "27": 9
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.ProductGroupPriceController/<Post>d__2": {
+        "System.Void GSRS.Demo.WebApi.Controllers.ProductGroupPriceController/<Post>d__2::MoveNext()": {
+          "Lines": {
+            "30": 1,
+            "32": 6,
+            "33": 2,
+            "34": 2,
+            "35": 2,
+            "37": 1,
+            "39": 1,
+            "40": 1,
+            "43": 1
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 116,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 32,
+              "Offset": 116,
+              "EndOffset": 118,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\UnitDefinitionController.cs": {
+      "GSRS.Demo.WebApi.Controllers.UnitDefinitionController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.UnitDefinitionController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.IUnitDefinitionService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.UnitDefinition,GSRS.Demo.Infrastructure.Dtos.UnitDefinitionDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.UnitDefinitionDto,GSRS.Demo.BusinessService.Model.UnitDefinition>)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.UnitDefinitionController/<Post>d__2": {
+        "System.Void GSRS.Demo.WebApi.Controllers.UnitDefinitionController/<Post>d__2::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 439,
+              "EndOffset": 441,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 439,
+              "EndOffset": 464,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 527,
+              "EndOffset": 532,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 527,
+              "EndOffset": 672,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 832,
+              "EndOffset": 834,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 832,
+              "EndOffset": 852,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\UnitFactorController.cs": {
+      "GSRS.Demo.WebApi.Controllers.UnitFactorController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.UnitFactorController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.IUnitFactorService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.UnitFactor,GSRS.Demo.Infrastructure.Dtos.UnitFactorDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.UnitFactorDto,GSRS.Demo.BusinessService.Model.UnitFactor>)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Demo.WebApi.Controllers.UnitFactorController/<Post>d__2": {
+        "System.Void GSRS.Demo.WebApi.Controllers.UnitFactorController/<Post>d__2::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 439,
+              "EndOffset": 441,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 439,
+              "EndOffset": 464,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 527,
+              "EndOffset": 532,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 527,
+              "EndOffset": 672,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 832,
+              "EndOffset": 834,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 832,
+              "EndOffset": 852,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Demo.WebApi\\Controllers\\VendorController.cs": {
+      "GSRS.Demo.WebApi.Controllers.VendorController": {
+        "System.Void GSRS.Demo.WebApi.Controllers.VendorController::.ctor(GSRS.Demo.BusinessService.ServiceContracts.IVendorService,GSRS.Api.BaseMapperContracts.IBaseModelToDtoMapper`2<GSRS.Demo.BusinessService.Model.Vendor,GSRS.Demo.Infrastructure.Dtos.VendorDto>,GSRS.Api.BaseMapperContracts.IBaseDtoToModelMapper`2<GSRS.Demo.Infrastructure.Dtos.VendorDto,GSRS.Demo.BusinessService.Model.Vendor>)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "GSRS.Infrastructure.dll": {
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\Models\\ErrorResponseViewModel.cs": {
+      "GSRS.Infrastructure.Models.ErrorResponseViewModel": {
+        "System.String GSRS.Infrastructure.Models.ErrorResponseViewModel::get_Type()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Infrastructure.Models.ErrorResponseViewModel::get_Message()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Infrastructure.Models.ErrorResponseViewModel::get_StackTrace()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Infrastructure.Models.ErrorResponseViewModel::.ctor(System.Exception)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\Helpers\\Check.cs": {
+      "GSRS.Infrastructure.Helpers.Check": {
+        "System.Void GSRS.Infrastructure.Helpers.Check::SqlInjection(System.String)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 44,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 12,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Infrastructure.Helpers.Check::DateValidations(System.Nullable`1<System.DateTime>,System.Nullable`1<System.DateTime>)": {
+          "Lines": {
+            "32": 6,
+            "33": 6,
+            "34": 1,
+            "35": 1,
+            "37": 5
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 20,
+              "EndOffset": 25,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 6
+            },
+            {
+              "Line": 33,
+              "Offset": 46,
+              "EndOffset": 48,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 33,
+              "Offset": 46,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 5
+            }
+          ]
+        },
+        "System.Void GSRS.Infrastructure.Helpers.Check::CheckModelProperties(T)": {
+          "Lines": {
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0
+          },
+          "Branches": [
+            {
+              "Line": 66,
+              "Offset": 171,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 68,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 100,
+              "EndOffset": 102,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 100,
+              "EndOffset": 125,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 130,
+              "EndOffset": 132,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 130,
+              "EndOffset": 135,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 146,
+              "EndOffset": 148,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 146,
+              "EndOffset": 161,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 68,
+              "Offset": 57,
+              "EndOffset": 162,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 171,
+              "EndOffset": 176,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Infrastructure.Helpers.Check::NullOrEmpty(System.String,System.String,System.Boolean)": {
+          "Lines": {
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "98": 0,
+            "99": 0,
+            "102": 0
+          },
+          "Branches": [
+            {
+              "Line": 91,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 93,
+              "Offset": 15,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 93,
+              "Offset": 15,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 91,
+              "Offset": 9,
+              "EndOffset": 49,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Infrastructure.Helpers.Check::Null(System.String,System.Object,System.Boolean)": {
+          "Lines": {
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "119": 0,
+            "120": 0,
+            "123": 0
+          },
+          "Branches": [
+            {
+              "Line": 112,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 114,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 114,
+              "Offset": 13,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 7,
+              "EndOffset": 47,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Infrastructure.Helpers.Check::NullOrEmtpyDictionary(System.String,System.Collections.Generic.Dictionary`2<T,U>,System.Boolean)": {
+          "Lines": {
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "142": 0,
+            "143": 0,
+            "146": 0
+          },
+          "Branches": [
+            {
+              "Line": 135,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 135,
+              "Offset": 2,
+              "EndOffset": 15,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 135,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 137,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 137,
+              "Offset": 24,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 135,
+              "Offset": 18,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Infrastructure.Helpers.Check::NullOrEmptyEnumerable(System.String,System.Collections.Generic.IEnumerable`1<T>,System.Boolean)": {
+          "Lines": {
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "164": 0,
+            "165": 0,
+            "168": 0
+          },
+          "Branches": [
+            {
+              "Line": 157,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 157,
+              "Offset": 2,
+              "EndOffset": 15,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 157,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 159,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 159,
+              "Offset": 24,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 157,
+              "Offset": 18,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Infrastructure.Helpers.Check::Emptyint(System.String,System.Int32,System.Boolean)": {
+          "Lines": {
+            "177": 24,
+            "178": 24,
+            "179": 8,
+            "180": 8,
+            "181": 0,
+            "182": 0,
+            "185": 8,
+            "186": 8,
+            "189": 16
+          },
+          "Branches": [
+            {
+              "Line": 178,
+              "Offset": 10,
+              "EndOffset": 12,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 8
+            },
+            {
+              "Line": 180,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 180,
+              "Offset": 16,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 8
+            },
+            {
+              "Line": 178,
+              "Offset": 10,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 16
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\Helpers\\ContextHelper.cs": {
+      "GSRS.Infrastructure.Helpers.ContextHelper": {
+        "Microsoft.EntityFrameworkCore.DbContextOptions`1<T> GSRS.Infrastructure.Helpers.ContextHelper::ChangeOptionsType(Microsoft.EntityFrameworkCore.DbContextOptions)": {
+          "Lines": {
+            "9": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": [
+            {
+              "Line": 11,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 13,
+              "Offset": 50,
+              "EndOffset": 52,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 13,
+              "Offset": 50,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Infrastructure\\ErrorHandlingMiddleWare\\ExceptionHandlingMiddleware.cs": {
+      "GSRS.Infrastructure.ErrorHandlingMiddleWare.ExceptionHandlingMiddleware": {
+        "System.Threading.Tasks.Task GSRS.Infrastructure.ErrorHandlingMiddleWare.ExceptionHandlingMiddleware::HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext,System.Exception)": {
+          "Lines": {
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": [
+            {
+              "Line": 39,
+              "Offset": 32,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 32,
+              "EndOffset": 44,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Infrastructure.ErrorHandlingMiddleWare.ExceptionHandlingMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Infrastructure.ErrorHandlingMiddleWare.ExceptionHandlingMiddleware/<Invoke>d__2": {
+        "System.Void GSRS.Infrastructure.ErrorHandlingMiddleWare.ExceptionHandlingMiddleware/<Invoke>d__2::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "GSRS.Service.dll": {
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\Service\\BaseAsyncService.cs": {
+      "GSRS.Service.Services.BaseAsyncService`1": {
+        "System.Void GSRS.Service.Services.BaseAsyncService`1::SetCreateAuditFields(TEntity)": {
+          "Lines": {
+            "115": 0,
+            "116": 0,
+            "118": 0,
+            "119": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Service.Services.BaseAsyncService`1::SetUpdateAuditFields(TEntity)": {
+          "Lines": {
+            "126": 0,
+            "127": 0,
+            "129": 0,
+            "130": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Service.Services.BaseAsyncService`1::.ctor(GSRS.Service.RepositoryContracts.IBaseRepositoryAsync`1<TEntity>)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Service.Services.BaseAsyncService`1/<CreateAsync>d__2": {
+        "System.Void GSRS.Service.Services.BaseAsyncService`1/<CreateAsync>d__2::MoveNext()": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Service.Services.BaseAsyncService`1/<DeleteAsync>d__4": {
+        "System.Void GSRS.Service.Services.BaseAsyncService`1/<DeleteAsync>d__4::MoveNext()": {
+          "Lines": {
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Service.Services.BaseAsyncService`1/<GetByIdAsync>d__6": {
+        "System.Void GSRS.Service.Services.BaseAsyncService`1/<GetByIdAsync>d__6::MoveNext()": {
+          "Lines": {
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Service.Services.BaseAsyncService`1/<SearchAsync>d__7": {
+        "System.Void GSRS.Service.Services.BaseAsyncService`1/<SearchAsync>d__7::MoveNext()": {
+          "Lines": {
+            "91": 0,
+            "92": 0,
+            "94": 0,
+            "95": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Service.Services.BaseAsyncService`1/<SearchUnrestrictedAsync>d__8": {
+        "System.Void GSRS.Service.Services.BaseAsyncService`1/<SearchUnrestrictedAsync>d__8::MoveNext()": {
+          "Lines": {
+            "105": 0,
+            "106": 0,
+            "107": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Service.Services.BaseAsyncService`1/<SoftDeleteAsync>d__5": {
+        "System.Void GSRS.Service.Services.BaseAsyncService`1/<SoftDeleteAsync>d__5::MoveNext()": {
+          "Lines": {
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Service.Services.BaseAsyncService`1/<UpdateAsync>d__3": {
+        "System.Void GSRS.Service.Services.BaseAsyncService`1/<UpdateAsync>d__3::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\Repository\\BaseRepositoryAsync.cs": {
+      "GSRS.Service.Repository.BaseRepositoryAsync`1": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<TEntity> GSRS.Service.Repository.BaseRepositoryAsync`1::get_DbSet()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Linq.IQueryable`1<TEntity> GSRS.Service.Repository.BaseRepositoryAsync`1::get_Query()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.Dictionary`2<System.Int32,TEntity>> GSRS.Service.Repository.BaseRepositoryAsync`1::SearchUnrestrictedAsync(GSRS.Service.ModelContracts.ISearchCondition`1<TEntity>)": {
+          "Lines": {
+            "114": 0,
+            "116": 0,
+            "118": 0,
+            "119": 0,
+            "121": 0,
+            "122": 0,
+            "124": 0,
+            "126": 0,
+            "127": 0
+          },
+          "Branches": [
+            {
+              "Line": 118,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 118,
+              "Offset": 19,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 124,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 124,
+              "Offset": 48,
+              "EndOffset": 73,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 124,
+              "Offset": 79,
+              "EndOffset": 81,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 124,
+              "Offset": 79,
+              "EndOffset": 104,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<TEntity> GSRS.Service.Repository.BaseRepositoryAsync`1::FetchAsync(System.Int32,System.Boolean)": {
+          "Lines": {
+            "137": 0,
+            "139": 0,
+            "140": 0,
+            "142": 0,
+            "143": 0,
+            "146": 0,
+            "147": 0
+          },
+          "Branches": [
+            {
+              "Line": 139,
+              "Offset": 20,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 139,
+              "Offset": 20,
+              "EndOffset": 156,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Threading.Tasks.Task`1<TEntity> GSRS.Service.Repository.BaseRepositoryAsync`1::FetchEntityByIdAsync(System.Int32)": {
+          "Lines": {
+            "159": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Service.Repository.BaseRepositoryAsync`1::CopyPropertiesTo(System.Object,System.Object)": {
+          "Lines": {
+            "168": 0,
+            "171": 0,
+            "175": 0,
+            "176": 0,
+            "178": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "194": 0,
+            "195": 0
+          },
+          "Branches": [
+            {
+              "Line": 175,
+              "Offset": 145,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 180,
+              "Offset": 53,
+              "EndOffset": 55,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 180,
+              "Offset": 53,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 185,
+              "Offset": 84,
+              "EndOffset": 86,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 185,
+              "Offset": 84,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 175,
+              "Offset": 145,
+              "EndOffset": 147,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Service.Repository.BaseRepositoryAsync`1::.ctor(GSRS.Service.ContextContracts.IBaseContext)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Service.Repository.BaseRepositoryAsync`1/<CreateAsync>d__6": {
+        "System.Void GSRS.Service.Repository.BaseRepositoryAsync`1/<CreateAsync>d__6::MoveNext()": {
+          "Lines": {
+            "36": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": []
+        }
+      },
+      "GSRS.Service.Repository.BaseRepositoryAsync`1/<DeleteAsync>d__8": {
+        "System.Void GSRS.Service.Repository.BaseRepositoryAsync`1/<DeleteAsync>d__8::MoveNext()": {
+          "Lines": {
+            "73": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0
+          },
+          "Branches": [
+            {
+              "Line": 76,
+              "Offset": 207,
+              "EndOffset": 212,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 207,
+              "EndOffset": 351,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "GSRS.Service.Repository.BaseRepositoryAsync`1/<SoftDeleteAsync>d__9": {
+        "System.Void GSRS.Service.Repository.BaseRepositoryAsync`1/<SoftDeleteAsync>d__9::MoveNext()": {
+          "Lines": {
+            "92": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "99": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0
+          },
+          "Branches": [
+            {
+              "Line": 95,
+              "Offset": 207,
+              "EndOffset": 212,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 95,
+              "Offset": 207,
+              "EndOffset": 351,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "GSRS.Service.Repository.BaseRepositoryAsync`1/<UpdateAsync>d__7": {
+        "System.Void GSRS.Service.Repository.BaseRepositoryAsync`1/<UpdateAsync>d__7::MoveNext()": {
+          "Lines": {
+            "51": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0
+          },
+          "Branches": [
+            {
+              "Line": 55,
+              "Offset": 231,
+              "EndOffset": 236,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 231,
+              "EndOffset": 420,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\Model\\BaseModel.cs": {
+      "GSRS.Service.Models.BaseModel": {
+        "System.Int32 GSRS.Service.Models.BaseModel::get_Id()": {
+          "Lines": {
+            "9": 133
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> GSRS.Service.Models.BaseModel::get_DateCreated()": {
+          "Lines": {
+            "12": 69
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> GSRS.Service.Models.BaseModel::get_DateChanged()": {
+          "Lines": {
+            "13": 69
+          },
+          "Branches": []
+        },
+        "System.String GSRS.Service.Models.BaseModel::get_ChangedBy()": {
+          "Lines": {
+            "14": 69
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\Model\\SearchCondition.cs": {
+      "GSRS.Service.Models.SearchCondition`1": {
+        "System.Linq.Expressions.Expression`1<System.Func`2<TEntity,System.Boolean>> GSRS.Service.Models.SearchCondition`1::get_Predicate()": {
+          "Lines": {
+            "38": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": [
+            {
+              "Line": 39,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 8,
+              "EndOffset": 68,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void GSRS.Service.Models.SearchCondition`1::.ctor(System.Linq.Expressions.Expression`1<System.Func`2<TEntity,System.Boolean>>)": {
+          "Lines": {
+            "24": 10,
+            "25": 10,
+            "26": 10,
+            "27": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Angular Project 2023\\GSRS V-1\\GSRS WebAPI\\GSRS.Service\\Context\\BaseContext.cs": {
+      "GSRS.Service.Context.BaseContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<TEntity> GSRS.Service.Context.BaseContext::SetEntity()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Linq.IQueryable`1<TEntity> GSRS.Service.Context.BaseContext::SetQuery()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Service.Context.BaseContext::SetModified(TEntity)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Service.Context.BaseContext::SetAdded(TEntity)": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Service.Context.BaseContext::SetDeleted(TEntity)": {
+          "Lines": {
+            "32": 0,
+            "33": 0,
+            "34": 0
+          },
+          "Branches": []
+        },
+        "System.Void GSRS.Service.Context.BaseContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<GSRS.Service.Context.BaseContext>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
